@@ -1,12 +1,14 @@
 {
   "name": "ts-all-in-one",
   "version": "1.0.0",
+  "description": "인프런 강좌를 보며 확실하게 익히는 ts문법",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "dependencies": {
+    "typescript": "^5.5.4"
+  }
 }
