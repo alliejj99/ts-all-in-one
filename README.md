@@ -14,7 +14,7 @@
 - $ npx tsx --init : (tsconfig.json)생성
 
 - tsconfig.json
-/* JavaScript Support */
+  /* JavaScript Support */
   Javascript 활성화! 같이 사용하도록 허용.-> "allowJs": true, /* Allow JavaScript files to be a part of your program. Use the 'checkJS' option to get errors from these files. */
   // "checkJs": true,                                  /* Enable error reporting in type-checked JavaScript files. */
   // "maxNodeModuleJsDepth": 1,                        /* Specify the maximum folder depth used for checking JavaScript files from 'node_modules'. Only applicable with 'allowJs'. */
